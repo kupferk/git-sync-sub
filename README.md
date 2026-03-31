@@ -1,3 +1,3 @@
 # git-sync-sub
 
-This is cool
+This is cool. And brillant!
