@@ -4,7 +4,6 @@ from datetime import datetime, timedelta
 from airflow.sdk import dag, task
 from airflow.utils.trigger_rule import TriggerRule
 
-stage = get_stage()
 app_name = "test_kaya"
 app_version = "1.0.0"
 k8s_namespace = "stackable-hadoop"
